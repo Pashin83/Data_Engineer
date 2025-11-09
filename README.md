@@ -30,4 +30,4 @@ Retention: сколько пользователей вернулись в те�
 4. Создать запрос с группировками по быстрой аналитике по дням.
 
 ## ✅ Решение 
-Код - [task_2_clikhouse.sql](https://github.com/Pashin83/Data_Engineer/blob/master/task_1_posgres.sql)
+Код - [task_2_clikhouse.sql](https://github.com/Pashin83/Data_Engineer/blob/master/task_2_clickhouse.sql)
