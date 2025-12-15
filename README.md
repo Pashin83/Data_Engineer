@@ -1,5 +1,8 @@
+<span style="color:purple; font-weight:bold; font-size:20px">
+   
 # Проект "Мой личный репозиторий"
 
+</span>
 # **Пашин Сергей**
 
 # 👨‍🎓 Cтажировка Data Engineer (NovaData)
